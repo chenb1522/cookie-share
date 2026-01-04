@@ -1,5 +1,7 @@
 # Cookie Share - Vite + Vue 3 + TypeScript
 
+[English](./README.md) | [简体中文](./README_CN.md)
+
 A modern rewrite of Cookie Share userscript using:
 - **vite-plugin-monkey** - Vite plugin for Tampermonkey userscript development
 - **Vue 3** - Progressive JavaScript framework with Composition API
